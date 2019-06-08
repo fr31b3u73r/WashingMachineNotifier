@@ -1,9 +1,7 @@
 # WashingMachineNotifier
-Get Pushover messages when washing machine has ended using FRITZ!DECT 200
-
-
-# WashingMachineNotifier
 [![Python](https://img.shields.io/badge/python-3-brightgreen.svg)]() [![Donate](https://img.shields.io/badge/donate-PayPal-brightgreen.svg)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=5654A67GA3GHA)
+
+Get Pushover messages when washing machine has ended using FRITZ!DECT 200
 
 **You need a Pushover account, Pushover App for desired plattform and FRITZ!DECT 200 along with Fritzbox!**
 
